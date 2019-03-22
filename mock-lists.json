@@ -1,0 +1,34 @@
+[
+  {
+    "id": 524, "name": "Applied", "order": 0, "disabled": false, "color": "#F9F9F9", "applicants": [
+      { "id": 11, "name": "Peter Dinklage", "rating": 4.7, "age": 49, "gender": "Male", "city": "Morristown", "picture": "peter-dinklage.jpeg", "list": 524 },
+      { "id": 12, "name": "Harry Lloyd", "rating": 4.2, "age": 35, "gender": "Male", "city": "London", "picture": "harry-lloyd.jpeg", "list": 524 },
+      { "id": 13, "name": "Sophie Turner", "rating": 2.4, "age": 22, "gender": "Female", "city": "Northampton", "picture": "sophie-turner.jpeg", "list": 524 }
+    ]
+  },
+  {
+    "id": 752, "name": "Interview", "order": 1, "disabled": false, "color": "#F9F9F9", "applicants": [
+      { "id": 14, "name": "Isaac Hempstead Wright", "rating": 3.8, "age": 19, "gender": "Male", "city": "Surrey", "picture": "isaac-hempstead-wright.jpeg", "list": 752 }
+    ]
+  },
+  {
+    "id": 415, "name": "Interview 2", "order": 2, "disabled": false, "color": "white", "applicants": [
+      { "id": 15, "name": "Emilia Clarke", "rating": 3.5, "age": 32, "gender": "Female", "city": "London", "picture": "emilia-clarke.jpeg", "list": 415 },
+      { "id": 16, "name": "Kit Harington", "rating": 5, "age": 32, "gender": "Male", "city": "Surrey", "picture": "kit-harington.jpeg", "list": 415 },
+      { "id": 17, "name": "Lenay Heady", "rating": 4.8, "age": 45, "gender": "Female", "city": "Hamilton", "picture": "lena-heady.jpeg", "list": 415 }]
+  },
+  {
+    "id": 525, "name": "Rejected", "order": 3, "disabled": false, "color": "#F9F9F9", "applicants": [
+      { "id": 18, "name": "Maisie Williams", "rating": 4, "age": 21, "gender": "Female", "city": "Bristol", "picture": "maisie-williams.jpeg", "list": 525 },
+      { "id": 19, "name": "Mark Addy", "rating": 4.8, "age": 55, "gender": "Male", "city": "Tang Hall", "picture": "mark-addy.jpeg", "list": 525 }
+    ]
+  },
+  {
+    "id": 845, "name": "Added to group hired", "order": 4, "disabled": true, "color": "#F9F9F9", "applicants": [
+      { "id": 20, "name": "Michelle Fairley", "rating": 4.8, "age": 55, "gender": "Female", "city": "Coleraine", "picture": "michelle-fairley.jpeg", "list": 845 },
+      { "id": 21, "name": "Nikolaj Coster-Waldau", "rating": 4.7, "age": 48, "gender": "Male", "city": "Rudkøbing", "picture": "nikolaj-coster-waldau.jpeg", "list": 845 },
+      { "id": 22, "name": "Richard Madden", "rating": 4.2, "age": 32, "gender": "Male", "city": "Elderslie", "picture": "richard-madden.jpeg", "list": 845 },
+      { "id": 23, "name": "Sean Bean", "rating": 5, "age": 59, "gender": "Male", "city": "Handsworth", "picture": "sean-bean.jpeg", "list": 845 }
+    ]
+  }
+]
